@@ -20,11 +20,12 @@ A cross-platform **Todo App** built with **React Native**, **Clerk** for authent
 
 ## 📸 Screenshots
 
-| Login                                    | Home                                        |
-| ---------------------------------------- | ------------------------------------------- |
-| ![Login Screen](assets/images/login.jpg) | ![Todos Screen](assets/images/home.jpg)     |
+| Login                                    | Home                                    |
+| ---------------------------------------- | --------------------------------------- |
+| ![Login Screen](assets/images/login.jpg) | ![Todos Screen](assets/images/home.jpg) |
+
 | Todos                                    | Settings                                    |
-| ---------------------------------------- | ----------------------------------------    |
+| ---------------------------------------- | ------------------------------------------- |
 | ![Login Screen](assets/images/todos.jpg) | ![Todos Screen](assets/images/settings.jpg) |
 
 | Dark Mode                               |
